@@ -72,8 +72,6 @@ github.com/go-logfmt/logfmt v0.5.0/go.mod h1:wCYkCAKZfumFQihp8CzCvQ3paCTfi41vtzG
 github.com/go-ole/go-ole v1.2.6 h1:/Fpf6oFPoeFik9ty7siob0G6Ke8QvQEuVcuChpwXzpY=
 github.com/go-ole/go-ole v1.2.6/go.mod h1:pprOEPIfldk/42T2oK7lQ4v4JSDwmV0As9GaiUsvbm0=
 github.com/go-stack/stack v1.8.0/go.mod h1:v0f6uXyyMGvRgIKkXu+yp6POWl0qKG85gN/melR3HDY=
-github.com/goccy/go-json v0.9.0 h1:2flW7bkbrRgU8VuDi0WXDqTmPimjv1thfxkPe8sug+8=
-github.com/goccy/go-json v0.9.0/go.mod h1:6MelG93GURQebXPDq3khkgXZkazVtN9CRI+MGFi0w8I=
 github.com/goccy/go-json v0.9.1 h1:xurvfvj3gq6SWUkkZ0opoUDTms7jif41uZ9z9s+hVlY=
 github.com/goccy/go-json v0.9.1/go.mod h1:6MelG93GURQebXPDq3khkgXZkazVtN9CRI+MGFi0w8I=
 github.com/gogo/protobuf v1.1.1/go.mod h1:r8qH/GZQm5c6nD/R0oafs1akxWv10x8SbQlK7atdtwQ=
@@ -137,6 +135,8 @@ github.com/hashicorp/golang-lru v0.5.0/go.mod h1:/m3WP610KZHVQ1SGc6re/UDhFvYD7pJ
 github.com/hashicorp/golang-lru v0.5.1/go.mod h1:/m3WP610KZHVQ1SGc6re/UDhFvYD7pJ4Ao+sR/qLZy8=
 github.com/ianlancetaylor/demangle v0.0.0-20181102032728-5e5cf60278f6/go.mod h1:aSSvb/t6k1mPoxDqO4vJh6VOCGPwU4O0C2/Eqndh1Sc=
 github.com/jpillora/backoff v1.0.0/go.mod h1:J/6gKK9jxlEcS3zixgDgUAsiuZ7yrSoa/FX5e0EB2j4=
+github.com/js361014/roadrunner/v2 v2.7.2-0.20220715153807-f9b8f7350769 h1:jmfTbv9dDUaFhSdAPuy2YYT5iXaaVIZhc0uKxRBzrA4=
+github.com/js361014/roadrunner/v2 v2.7.2-0.20220715153807-f9b8f7350769/go.mod h1:rTqoD67LETVLmTYUm8hKF0ZNs2FRfxn6XXlV++oXz+A=
 github.com/json-iterator/go v1.1.6/go.mod h1:+SdeFBvtyEkXs7REEP0seUULqWtbJapLOCVDaaPEHmU=
 github.com/json-iterator/go v1.1.10/go.mod h1:KdQUCv79m/52Kvf8AW2vK1V8akMuk1QjK/uOdHXbAo4=
 github.com/json-iterator/go v1.1.11/go.mod h1:KdQUCv79m/52Kvf8AW2vK1V8akMuk1QjK/uOdHXbAo4=
@@ -202,10 +202,8 @@ github.com/sirupsen/logrus v1.4.2/go.mod h1:tLMulIdttU9McNUspp0xgXVQah82FyeX6Mwd
 github.com/sirupsen/logrus v1.6.0/go.mod h1:7uNnSEd1DgxDLC74fIahvMZmmYsHGZGEOFrfsX/uA88=
 github.com/spiral/errors v1.0.12 h1:38Waf8ZL/Xvxg4HTYGmrUbvi7TCHivmuatNQZlBhQ8s=
 github.com/spiral/errors v1.0.12/go.mod h1:j5UReqxZxfkwXkI9mFY87VhEXcXmSg7kAk5Sswy1eEA=
-github.com/spiral/goridge/v3 v3.2.4 h1:Octzn0kgpQY10vQhrf0a5RlzCVW1lIEuR6/IGYp0BW4=
-github.com/spiral/goridge/v3 v3.2.4/go.mod h1:a6qAtZy+FBaPj/76GweHj6SkgIr+oRVgW5p4e5vLZF4=
-github.com/spiral/roadrunner/v2 v2.7.0-rc.2 h1:ZjLBQajtv0C3+bJdmGD5Rs3pVH8UIuoQkHePAXU4uYg=
-github.com/spiral/roadrunner/v2 v2.7.0-rc.2/go.mod h1:S/ash+OWnvvBR79EV+3YDk8uACC4p3Fi/MSDFqkA3Jo=
+github.com/spiral/goridge/v3 v3.2.7 h1:tiV1d025QwEAIr8WRo7kUQW9PhWGa405QpC3HrEjCPY=
+github.com/spiral/goridge/v3 v3.2.7/go.mod h1:a6qAtZy+FBaPj/76GweHj6SkgIr+oRVgW5p4e5vLZF4=
 github.com/spiral/tcplisten v1.0.0 h1:dII3R20Xslll6Uk60ac1JCn9zQwfwbt88CLrs3OryZg=
 github.com/spiral/tcplisten v1.0.0/go.mod h1:+anIsZh2ZYw2EogG2pO1yEZKcGN7lEf41hUQilctYJo=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=

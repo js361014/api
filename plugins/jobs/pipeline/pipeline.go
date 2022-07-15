@@ -1,8 +1,8 @@
 package pipeline
 
 import (
-	"github.com/goccy/go-json"
-	"github.com/spiral/roadrunner/v2/utils"
+	"encoding/json"
+	"github.com/js361014/roadrunner/v2/utils"
 )
 
 // Pipeline defines pipeline options.

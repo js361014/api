@@ -1,11 +1,11 @@
-module github.com/roadrunner-server/api/v2
+module github.com/js361014/api/v2
 
 go 1.17
 
 require (
 	github.com/goccy/go-json v0.9.1
+	github.com/js361014/roadrunner/v2 v2.7.2-0.20220715153807-f9b8f7350769
 	github.com/prometheus/client_golang v1.11.0
-	github.com/spiral/roadrunner/v2 v2.7.0-rc.2
 	github.com/stretchr/testify v1.7.0
 	go.uber.org/zap v1.20.0
 	google.golang.org/protobuf v1.27.1
@@ -30,7 +30,7 @@ require (
 	github.com/prometheus/procfs v0.7.3 // indirect
 	github.com/shirou/gopsutil v3.21.11+incompatible // indirect
 	github.com/spiral/errors v1.0.12 // indirect
-	github.com/spiral/goridge/v3 v3.2.4 // indirect
+	github.com/spiral/goridge/v3 v3.2.7 // indirect
 	github.com/spiral/tcplisten v1.0.0 // indirect
 	github.com/tklauser/go-sysconf v0.3.9 // indirect
 	github.com/tklauser/numcpus v0.3.0 // indirect
